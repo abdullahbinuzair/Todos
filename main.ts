@@ -10,7 +10,7 @@ while(condition)
            {
               name:'todo',
               type:'input',
-              message:"what do you want to add i todos?"
+              message:"what do you want to add todos?"
            },
            
            {
